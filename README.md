@@ -110,13 +110,3 @@ python -m src.ai_companion.main
 ```bash
 docker-compose up --build
 ```
-
----
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
