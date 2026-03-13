@@ -1,4 +1,3 @@
-````markdown
 # Nova - AI Multimodal Messenger
 
 **Nova** is a Python-based AI-powered multimodal messenger that integrates text, voice, and image inputs for interactive conversations. It leverages memory, context, and workflow orchestration to provide intelligent, personalized responses.
@@ -84,7 +83,7 @@ Below is the workflow that Nova follows for processing user input:
 ```bash
 git clone https://github.com/Madhusanka-slc/ai-multimodal-messenger.git
 cd ai-multimodal-messenger
-````
+```
 
 2. Create a virtual environment and install dependencies:
 
@@ -113,3 +112,11 @@ docker-compose up --build
 ```
 
 ---
+
+## License
+
+[Add your license information here]
+
+## Contributing
+
+[Add contribution guidelines here]
